@@ -8,8 +8,8 @@ free_days are days where you are not avalible
 # Slow internet requires longer SLEEP_TIME
 SLEEP_TIME = 3
 
-USERNAME = 'martin@maartensson.email'
-PASSWORD = 'JlElLmartin21'
+USERNAME = ''
+PASSWORD = ''
 
 BASTARD_OPEN    = '10:30'
 BASTARD_CLOSE   = '02:00'
