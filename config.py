@@ -8,8 +8,8 @@ free_days are days where you are not avalible
 # Slow internet requires longer SLEEP_TIME
 SLEEP_TIME = 3
 
-USERNAME = 'your@email.com'
-PASSWORD = 'yourp4s5w0rd'
+USERNAME = 'martin@maartensson.email'
+PASSWORD = 'JlElLmartin21'
 
 BASTARD_OPEN    = '10:30'
 BASTARD_CLOSE   = '02:00'
@@ -21,3 +21,4 @@ allday_days = ['lørdag','onsdag']
 early_days  = ['søndag']
 late_days   = ['fredag']
 free_days   = ['mandag','tirsdag','torsdag']
+
